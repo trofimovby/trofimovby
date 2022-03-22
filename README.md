@@ -1,14 +1,33 @@
-### Hi  👋, I'm  Alexander Trofimov! 
+### Hi  👋, I'm  Alexander Trofimov!
 
 
 
-## I'm a FrontEnd Developer, and student of BSUIR 🏫
+## I'm a Junior Frontend Developer, and student of BSUIR 🏫
+
+
 
 - 💪 I like to write code.
-- 🏫 I have been studying the front-end direction for the last two years.
+- 🏫 I have been active studying the front-end direction for the last two months.
 - 🏗 I can develop full-stack web applications.
 - ⚡  I want to improve my skills and open to new knowledge and technologies
 - 🤹🏽 I have the ability to self-organization, the desire to develop and improve myself.
+
+## About me 
+I am a full-time student at BSUIR, and already have skills in web development, 
+since 2020 I began to delve into the study of HTML, CSS, JavaScript (vanila).
+I am also actively studying and practicing the topic of blockchain, cryptocurrencies and web 3.0.
+I want to continue improving my skills and am open to new knowledge and technologies. 
+I am responsible and purposeful, many of my friends are amazed at my productivity.
+
+### Code example::
+```
+function get_random_image(){
+    random_index = Math.floor(Math.random() * image_array.length);
+    selected_image = image_array[random_index]
+    document.getElementById('image_shower').src = `./images/${selected_image}`
+}
+``` 
+
 
 ### Connect with me:
 

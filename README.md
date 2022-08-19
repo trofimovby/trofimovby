@@ -2,7 +2,7 @@
 
 
 
-## I'm a Junior Developer, and student of BSUIR 🏫
+## I'm a Junior Developer, and student of BSUIR (IT university in Belarus) 🏫
 
 
 
@@ -46,7 +46,7 @@ I am responsible and purposeful, many of my friends are amazed at my productivit
 
 
 
-[youtube]: https://www.youtube.com/channel/SANEKS
+
 [linkedin]: https://www.linkedin.com/in/trofimovby/
 [instagram]: https://www.instagram.com/trofimovby/
 [vk]: https://vk.com/trofimovby

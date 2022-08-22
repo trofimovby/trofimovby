@@ -7,7 +7,6 @@
 
 
 - 💪 I like to write code.
-- 🏫 I have been active studying the front-end direction for the last two months.
 - 🏗 I can develop full-stack web applications.
 - ⚡  I want to improve my skills and open to new knowledge and technologies
 - 🤹🏽 I have the ability to self-organization, the desire to develop and improve myself.

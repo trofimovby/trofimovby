@@ -25,7 +25,6 @@ Programmer Engineer at the Institute of Genetics: -   February 2023 - to date
 
 
 ## My tech stack:
-- Swift / Swift UI / UIKit
 - JS / React
 - Python, FastAPI
 - Networks (API/JSON/Postman)

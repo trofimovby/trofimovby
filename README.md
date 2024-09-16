@@ -1,33 +1,21 @@
-## My name is Alexander Trofimov
+## 👋 About Me
 
-I am an aspiring programmer, graduated from BSUIR. 
-I have experience with Python and frontend development,
-and now I am fully dedicated to learning mobile 
-development for iOS. I have thoroughly enjoyed learning 
-iOS and find the platform incredibly engaging and user-friendly.
-As I continue to expand my skills, I am actively seeking
-internship opportunities where I can apply my knowledge
-and gain hands-on development experience.
-## Interested in:
+Hi! My name is Sasha, and I'm a Python backend developer with experience in building server-side solutions. My main focus is on API development, working with databases, and leveraging microservices architecture. I strive to write clean, maintainable code and follow best practices in development.
 
- - Web 3.0 technology
- - Fintech projects
- - Networks 
- - Health
- - Traveling
- - Swimming
+### 🔧 Tech Stack:
+- **Programming Languages:** Python, SQL
+- **Frameworks:** Django, Flask, FastAPI
+- **Databases:** PostgreSQL, MySQL, MongoDB
+- **DevOps Tools:** Docker, Kubernetes, Nginx
+- **Testing:** pytest, unittest
+- **APIs:** REST, GraphQL
 
+### 📚 Currently Learning:
+- Microservices architecture
+- Asynchronous programming (AsyncIO, Aiohttp)
+- Cloud technologies (AWS, GCP)
+- CI/CD pipelines and automation
 
-## My experience:
-Programmer Engineer at the Institute of Genetics: -   February 2023 - to date
-
-
-## My tech stack:
-- JS / React
-- Python, FastAPI
-- Networks (API/JSON/Postman)
-
-## My contacts:
-[Telegram](https://t.me/trofimovby)
-alexandertrofimovby@gmail.com
-
+### 📫 How to reach me:
+- LinkedIn: [https://www.linkedin.com/in/trofimovby/]
+- Email: [ftreder79@gmail.com]

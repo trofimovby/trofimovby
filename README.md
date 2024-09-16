@@ -8,8 +8,6 @@ iOS and find the platform incredibly engaging and user-friendly.
 As I continue to expand my skills, I am actively seeking
 internship opportunities where I can apply my knowledge
 and gain hands-on development experience.
-
-Translated with DeepL.com (free version)
 ## Interested in:
 
  - Web 3.0 technology
